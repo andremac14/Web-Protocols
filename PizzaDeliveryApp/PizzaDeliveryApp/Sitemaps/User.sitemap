@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="" title="Pie Peddlers Pizza"  description="Site Navigation">
+    <siteMapNode url="" title="MyPizza"  description="User Management">
+      <siteMapNode url="MyPizza\Login.aspx" title="Login"  description="Login to your user account." />
+      <siteMapNode url="MyPizza\CreateUser.aspx" title="Register"  description="Register for a MyPizza account." />
+    </siteMapNode>
+    <siteMapNode url="User\Default.aspx" title="Home"  description="Main page" />
+    <siteMapNode url="User\CreateOrder.aspx" title="Order Online"  description="Create an order for delivery or carry out." />
+    <siteMapNode url="User\SpecialtyOrder.aspx" title="Specialty Pizzas"  description="Create an order for delivery or carry out." />
+    <siteMapNode url="User\Checkout.aspx" title="Checkout"  description="Complete your order." />
+  </siteMapNode>
+</siteMap>
